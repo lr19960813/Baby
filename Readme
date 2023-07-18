@@ -1,1 +1,3 @@
-A program in ALPS ALPIN for finding babys left in car. This is a teamwork with 5 people and 2 teachers from ALPS. 
+内容：車室内に対する画像認識応用 
+
+室内の乳幼児の存在を認識することを目的とし、企業と社会課題を共有した後、車載カメラで画像を取得と機械学習による画像認識モデルの学習を行い評価を実施。 
